@@ -1,0 +1,5 @@
+# comment the following lines for multistage build
+*
+!target/*-runner
+!target/*-runner.jar
+!target/lib/*
